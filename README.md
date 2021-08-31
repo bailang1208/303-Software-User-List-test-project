@@ -1,1 +1,9 @@
-# 303-Software-User-List-test-project
+# User list test project
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm install`
+
+### `npm start`
